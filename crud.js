@@ -68,57 +68,6 @@ function postData() {
         })
 }
 
-
-// function putData() {
-//         var RollNo = document.getElementID("RollNo").value = data[0]['RollNo']
-//         var FirstName = document.getElementID("FirstName").value = data[0]['FirstName']
-//         var LastName = document.getElementID("LastName").value = data[0]['LastName']
-//         var Age = document.getElementID("Age").value = data[0]['Age']
-//         var City = document.getElementID("City").value = data[0]['City']
-//         var ItemList = document.getElementID("ItemList").value = data[0]['ItemList']
-
-//         data = {RollNo: RollNo ,FirstName: FirstName, LastName: LastName, Age: Age, City: City, ItemList: ItemList};
-//         console.log(data)
-//         fetch(api_url, {
-//                 method: "PUT",
-//                 headers: {
-//                   'Accept': 'application/json',
-//                   'Content-Type': 'application/json'
-//                 },
-//                 body: JSON.stringify(data)
-//         })
-//         .then((response) => response.json())
-//         .then((data) => {
-//                 console.table(data);
-//                 window.location.href = "index.html";
-//         })
-// }
-
-// function putData() {
-//         var RollNo = document.getElementByID("RollNo").value;
-//         var FirstName = document.getElementByID("FirstName").value; 
-//         var LastName = document.getElementByID("LastName").value;
-//         var Age = document.getElementByID("Age").value;
-//         var City = document.getElementByID("City").value;
-//         var ItemList = document.getElementByID("ItemList").value; 
-
-//         data = {RollNo: RollNo ,FirstName: FirstName, LastName: LastName, Age: Age, City: City, ItemList: ItemList};
-//         console.log(data)
-//         fetch(api_url, {
-//                 method: "PUT",
-//                 headers: {
-//                   'Accept': 'application/json',
-//                   'Content-Type': 'application/json'
-//                 },
-//                 body: JSON.stringify(data)
-//         })
-//         .then((response) => response.json())
-//         .then((data) => {
-//                 console.table(data);
-//                 window.location.href = "index.html";
-//         })
-// }
-
 function putData() {
         var RollNo = document.getElementById("RollNo").value;
         var FirstName = document.getElementById("FirstName").value;
