@@ -38,7 +38,7 @@ This group project was created as part of Python ESD for Innovative Exams by gro
 Special Thanks to:
 1. :cow: Nilesh Pal `Roll no. 01`
 2. :disguised_face: Aditya Palande `Roll no. 02`
-3. :panda_face: Karan Panda `Roll no.  03`
+3. :panda_face: Karan Panda `Roll no.  03` (me)
 4. :fox_face: Anand Pandey `Roll no. 04`
 5. :koala: Nishant Pandey `Roll no. 05`
 
