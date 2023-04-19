@@ -44,7 +44,7 @@ function getDataByID(RollNo){
 }
 
 function postData() {
-        var RollNo = document.getElementById("RollNo").value= data[0]['RollNo'];
+        var RollNo = document.getElementById("RollNo").value;
         var FirstName = document.getElementById("FirstName").value;
         var LastName = document.getElementById("LastName").value;
         var Age = document.getElementById("Age").value;
