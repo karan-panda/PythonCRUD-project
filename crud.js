@@ -1,4 +1,5 @@
 const api_url = "http://192.168.1.12:1234/users"
+// const api_url = "http://192.168.249.221:1234/users"
 
 function loadData(records = []) {
     var table_data = "";
