@@ -8,7 +8,7 @@ This is a Python CRUD (Create, Read, Update, Delete) project that utilizes Flask
 ### 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/mrpanda1206/PythonCRUD-project.git
+git clone https://github.com/karan-panda/PythonCRUD-project.git
 ```
 ### 2. Install the required packages:
  ```bash
